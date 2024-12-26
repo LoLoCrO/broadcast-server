@@ -1,0 +1,7 @@
+{
+  "name": "broadcast-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-lolocro:LoLoCrO/broadcast-server.git",
+  "license": "MIT"
+}
