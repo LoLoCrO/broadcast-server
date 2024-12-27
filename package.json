@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com-lolocro:LoLoCrO/broadcast-server.git",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "ws": "^8.18.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.8"
+  }
 }
